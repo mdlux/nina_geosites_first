@@ -4,6 +4,7 @@
 .DS_Store
 development.db
 local_settings.py
+.idea/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
